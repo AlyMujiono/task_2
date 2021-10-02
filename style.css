@@ -1,7 +1,6 @@
 body{
-    background-color: rgb(62, 90, 218);
     background-image: url(assets/images/bg.jpg);
-    background-size: auto;
+    background-size: cover;
 }
 .wrap{
     width: 40%;
@@ -9,7 +8,7 @@ body{
     color: white;
     border-radius: 10px;
     font-family: comic sans ms;
-    background-color: rgba(245, 0, 0, 0.57);
+    background-color: rgba(0, 237, 245, 0.57);
 }
 .container{
     padding: 5px;
@@ -24,6 +23,6 @@ button{
     width: 50px;
     font-family: comic sans ms;
     height: 30px;
-    background-color: blueviolet;
+    background-color: rgba(74, 255, 3, 0.603);
     background-position: 7px;
 }
