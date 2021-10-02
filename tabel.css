@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(42, 165, 108);
+    font-family: comic sans ms;
+    text-align: center;
+}
+tbody tr:nth-child(even) {
+    background-color: lightgray;
+}
+table {
+    border: solid 1pt black;
+    border-collapse: collapse;
+}
+td {
+    border: solid 1pt black;
+    padding: 10pt;
+}
+th {
+    border: solid 1pt black;
+    padding: 10pt;
+}
+h1{
+    width: 40%;
+    margin: auto;
+    color: white;
+    border-radius: 10px;
+    font-family: comic sans ms;
+    background-color: rgba(0, 237, 245, 0.57);
+}
+
