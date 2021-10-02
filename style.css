@@ -1,3 +1,29 @@
 body{
-    background-color: brown;
+    background-color: rgb(62, 90, 218);
+    background-image: url(assets/images/bg.jpg);
+    background-size: auto;
+}
+.wrap{
+    width: 40%;
+    margin: auto;
+    color: white;
+    border-radius: 10px;
+    font-family: comic sans ms;
+    background-color: rgba(245, 0, 0, 0.57);
+}
+.container{
+    padding: 5px;
+}
+table{
+    margin: auto;
+}
+table td{
+    padding: 5px;
+}
+button{
+    width: 50px;
+    font-family: comic sans ms;
+    height: 30px;
+    background-color: blueviolet;
+    background-position: 7px;
 }
