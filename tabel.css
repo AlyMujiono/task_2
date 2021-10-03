@@ -1,7 +1,9 @@
 body{
-    background-color: rgb(42, 165, 108);
+    background-color: rgb(242, 0, 255);
     font-family: comic sans ms;
     text-align: center;
+    background-image: url(assets/images/bg1.jpg);
+    background-size: cover;
 }
 tbody tr:nth-child(even) {
     background-color: lightgray;
@@ -26,4 +28,11 @@ h1{
     font-family: comic sans ms;
     background-color: rgba(0, 237, 245, 0.57);
 }
-
+a{
+    width: 40%;
+    margin: auto;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    font-family: comic sans ms;
+    background-color: rgba(45, 0, 245, 0.782);
+}
